@@ -10,3 +10,4 @@ A sample front-end for [github.com/karmakaze/quicklog](https://github.com/karmak
 
 
 This software is Copyright (c) 2018, Keith Kim. All rights reserved.
+License information can be found in the LICENSE file.
